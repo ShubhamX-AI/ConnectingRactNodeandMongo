@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-style: italic;
+}
+
+table, th, td {
+    border: 2px solid rgb(53, 76, 98);
+    border-collapse: collapse;
+}
